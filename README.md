@@ -41,20 +41,20 @@ Follow these steps exactly to get the project running on your local machine
 
 ### 1. Clone the Repository
 Open your terminal and run
-```bash
+bash
 git clone [https://github.com/AmirAziz1221/notification_collector.git](https://github.com/AmirAziz1221/notification_collector.git)
 cd notification_collector
 
 ### 2. Verify Environment
 Check if your Flutter setup is complete
 
-```bash
+bash
 flutter doctor
 
 ### 3. Install Dependencies
 Download the necessary packages defined in the project
 
-```bash
+bash
 flutter pub get
 
 ### 4. Connect a Device
@@ -65,7 +65,7 @@ flutter pub get
 ### 5. Run the App
 To compile and install the app on your connected device, run
 
-```bash
+bash
 flutter run
 
 ## ⚠️ Important: Notification Permissions
