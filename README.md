@@ -68,7 +68,7 @@ To compile and install the app on your connected device, run
 bash
 flutter run
 
-## ⚠️ Important: Notification Permissions
+## Important: Notification Permissions
 
 This app requires a special permission that **cannot** be granted automatically by the code due to Android security policies. Without this, the app will not be able to "see" or log incoming notifications.
 
