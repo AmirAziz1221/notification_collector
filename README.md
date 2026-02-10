@@ -37,7 +37,7 @@ Before running this project, ensure you have the following installed on your mac
 
 ## 🚀 Setup & Installation
 
-Follow these steps exactly to get the project running on your local machine:
+Follow these steps exactly to get the project running on your local machine
 
 ### 1. Clone the Repository
 Open your terminal and run:
